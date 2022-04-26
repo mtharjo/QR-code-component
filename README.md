@@ -2,7 +2,7 @@
 
 ![Visualização do design para o desafio de codificação do componente de código QR](./design/desktop-preview.jpg)
 
-## Receber! 👋
+## Olá! 👋
 
 Obrigado por conferir este desafio de codificação de front-end.
 
